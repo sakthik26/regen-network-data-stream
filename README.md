@@ -16,19 +16,7 @@ Before you begin, ensure you have the following installed:
 
 ### Installing
 
-A step-by-step series of examples that tell you how to get a development environment running.
-
-#### Setting up the Client
-
-Navigate to the client directory:
-
-```bash
-cd client
-npm install
-npm start
-```
-
-This should launch your client application in the default web browser at http://localhost:3000.
+A step-by-step series of examples that tell you how to get a development environment running. First we setup the server followed by the client
 
 ####  Setting up the Server
 
@@ -42,3 +30,17 @@ docker-compose up
 npm run init-db
 npm run dev
 ```
+
+#### Setting up the Client
+
+Navigate to the client directory:
+
+```bash
+cd client
+npm install
+npm start
+```
+
+This should launch your client application in the default web browser at http://localhost:3000.
+
+
