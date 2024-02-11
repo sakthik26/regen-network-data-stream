@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataFeed component renders correctly with empty posts 1`] = `
+<DocumentFragment>
+  <div
+    class="project-title"
+  />
+  <div
+    class="posts-container"
+  />
+</DocumentFragment>
+`;
+
+exports[`DataFeed component renders correctly with posts 1`] = `
+<DocumentFragment>
+  <div
+    class="project-title"
+  />
+  <div
+    class="posts-container"
+  />
+</DocumentFragment>
+`;

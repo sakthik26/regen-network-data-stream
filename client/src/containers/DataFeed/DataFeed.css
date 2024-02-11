@@ -1,0 +1,15 @@
+.project-title {
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.posts-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
